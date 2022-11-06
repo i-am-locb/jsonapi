@@ -1,0 +1,302 @@
+[
+    {
+      "id": 0,
+      "company": "EXOBLUE",
+      "address": "241 Tehama Street, Orick, Tennessee, 1419",
+      "isActive": false
+    },
+    {
+      "id": 1,
+      "company": "EXOSPEED",
+      "address": "382 Rugby Road, Aguila, Puerto Rico, 5825",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "company": "MANUFACT",
+      "address": "572 Thomas Street, Rockingham, Mississippi, 9854",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "company": "EXOTECHNO",
+      "address": "465 Hegeman Avenue, Blanco, Missouri, 5236",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "company": "COLAIRE",
+      "address": "587 Meadow Street, Vowinckel, Michigan, 4088",
+      "isActive": false
+    },
+    {
+      "id": 5,
+      "company": "OPTYK",
+      "address": "475 Bath Avenue, Sidman, Palau, 2264",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "company": "AQUASSEUR",
+      "address": "269 Duryea Court, Day, North Dakota, 7831",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "company": "PODUNK",
+      "address": "231 Midwood Street, Rew, Montana, 9528",
+      "isActive": false
+    },
+    {
+      "id": 8,
+      "company": "PHUEL",
+      "address": "663 Richmond Street, Rote, Wisconsin, 4379",
+      "isActive": true
+    },
+    {
+      "id": 9,
+      "company": "CABLAM",
+      "address": "946 Overbaugh Place, Laurelton, Georgia, 3453",
+      "isActive": false
+    },
+    {
+      "id": 10,
+      "company": "ZILENCIO",
+      "address": "713 King Street, Norvelt, New Mexico, 2351",
+      "isActive": false
+    },
+    {
+      "id": 11,
+      "company": "ROCKYARD",
+      "address": "970 Milton Street, Snowville, Texas, 3074",
+      "isActive": true
+    },
+    {
+      "id": 12,
+      "company": "KNEEDLES",
+      "address": "664 Horace Court, Oley, Indiana, 2976",
+      "isActive": false
+    },
+    {
+      "id": 13,
+      "company": "KRAGGLE",
+      "address": "676 Cornelia Street, Westerville, Oregon, 102",
+      "isActive": false
+    },
+    {
+      "id": 14,
+      "company": "OPTICOM",
+      "address": "920 Bank Street, Kingstowne, Marshall Islands, 7126",
+      "isActive": false
+    },
+    {
+      "id": 15,
+      "company": "QUANTASIS",
+      "address": "305 Dearborn Court, Harleigh, Vermont, 4597",
+      "isActive": false
+    },
+    {
+      "id": 16,
+      "company": "ORBEAN",
+      "address": "570 Varick Avenue, Beechmont, Kansas, 9980",
+      "isActive": true
+    },
+    {
+      "id": 17,
+      "company": "QUINTITY",
+      "address": "539 Guider Avenue, Boyd, California, 6945",
+      "isActive": true
+    },
+    {
+      "id": 18,
+      "company": "DOGNOST",
+      "address": "499 Ingraham Street, Jenkinsville, Northern Mariana Islands, 2617",
+      "isActive": false
+    },
+    {
+      "id": 19,
+      "company": "XIIX",
+      "address": "519 Albemarle Road, Oretta, West Virginia, 9447",
+      "isActive": false
+    },
+    {
+      "id": 20,
+      "company": "EXIAND",
+      "address": "255 Conover Street, Moquino, Pennsylvania, 2094",
+      "isActive": true
+    },
+    {
+      "id": 21,
+      "company": "MEDALERT",
+      "address": "136 Lincoln Place, Spelter, Alaska, 6750",
+      "isActive": false
+    },
+    {
+      "id": 22,
+      "company": "BUNGA",
+      "address": "217 Hampton Avenue, Richmond, Delaware, 2424",
+      "isActive": true
+    },
+    {
+      "id": 23,
+      "company": "ISODRIVE",
+      "address": "644 Coleman Street, Sugartown, Nebraska, 9590",
+      "isActive": false
+    },
+    {
+      "id": 24,
+      "company": "ACCUPRINT",
+      "address": "745 Hazel Court, Alden, Wyoming, 6675",
+      "isActive": true
+    },
+    {
+      "id": 25,
+      "company": "SUSTENZA",
+      "address": "726 Meeker Avenue, Dante, Connecticut, 3730",
+      "isActive": true
+    },
+    {
+      "id": 26,
+      "company": "EXOZENT",
+      "address": "936 Hampton Place, Cotopaxi, South Carolina, 3591",
+      "isActive": false
+    },
+    {
+      "id": 27,
+      "company": "DEEPENDS",
+      "address": "244 Foster Avenue, Brownsville, North Carolina, 5842",
+      "isActive": false
+    },
+    {
+      "id": 28,
+      "company": "KOFFEE",
+      "address": "949 Hopkins Street, Esmont, Alabama, 6897",
+      "isActive": true
+    },
+    {
+      "id": 29,
+      "company": "RETROTEX",
+      "address": "650 Balfour Place, Croom, Maine, 7905",
+      "isActive": false
+    },
+    {
+      "id": 30,
+      "company": "GLOBOIL",
+      "address": "896 Montana Place, Thomasville, Illinois, 5034",
+      "isActive": true
+    },
+    {
+      "id": 31,
+      "company": "ISOSWITCH",
+      "address": "341 Cambridge Place, Cumminsville, Ohio, 6971",
+      "isActive": true
+    },
+    {
+      "id": 32,
+      "company": "GONKLE",
+      "address": "773 Schweikerts Walk, Johnsonburg, Virginia, 3880",
+      "isActive": true
+    },
+    {
+      "id": 33,
+      "company": "DREAMIA",
+      "address": "315 Vandervoort Place, Lowell, Iowa, 4965",
+      "isActive": true
+    },
+    {
+      "id": 34,
+      "company": "ENERVATE",
+      "address": "754 Llama Court, Dotsero, Oklahoma, 685",
+      "isActive": false
+    },
+    {
+      "id": 35,
+      "company": "TECHTRIX",
+      "address": "674 Quincy Street, Omar, Arizona, 4933",
+      "isActive": false
+    },
+    {
+      "id": 36,
+      "company": "ISOSTREAM",
+      "address": "700 Ryder Street, Fairmount, American Samoa, 5850",
+      "isActive": true
+    },
+    {
+      "id": 37,
+      "company": "ZENTURY",
+      "address": "460 Grimes Road, Stollings, New Jersey, 2526",
+      "isActive": false
+    },
+    {
+      "id": 38,
+      "company": "XTH",
+      "address": "806 Ivan Court, Floriston, Hawaii, 2772",
+      "isActive": true
+    },
+    {
+      "id": 39,
+      "company": "ROBOID",
+      "address": "833 Ridge Boulevard, Berlin, South Dakota, 8855",
+      "isActive": false
+    },
+    {
+      "id": 40,
+      "company": "ISOSURE",
+      "address": "227 Branton Street, Otranto, Arkansas, 2134",
+      "isActive": false
+    },
+    {
+      "id": 41,
+      "company": "VIOCULAR",
+      "address": "999 Porter Avenue, Martell, Guam, 4224",
+      "isActive": true
+    },
+    {
+      "id": 42,
+      "company": "HANDSHAKE",
+      "address": "721 Centre Street, Gratton, Colorado, 9614",
+      "isActive": true
+    },
+    {
+      "id": 43,
+      "company": "KEEG",
+      "address": "727 Imlay Street, Windsor, Kentucky, 5224",
+      "isActive": false
+    },
+    {
+      "id": 44,
+      "company": "BITENDREX",
+      "address": "245 Gem Street, Darrtown, Virgin Islands, 6934",
+      "isActive": true
+    },
+    {
+      "id": 45,
+      "company": "BIOTICA",
+      "address": "280 Rock Street, Brownlee, Florida, 8387",
+      "isActive": false
+    },
+    {
+      "id": 46,
+      "company": "FLUM",
+      "address": "445 Lawn Court, Reno, Maryland, 3261",
+      "isActive": true
+    },
+    {
+      "id": 47,
+      "company": "GALLAXIA",
+      "address": "678 Townsend Street, Dahlen, Washington, 7772",
+      "isActive": false
+    },
+    {
+      "id": 48,
+      "company": "INSOURCE",
+      "address": "887 Creamer Street, Kirk, Louisiana, 5620",
+      "isActive": false
+    },
+    {
+      "id": 49,
+      "company": "EQUITOX",
+      "address": "131 McClancy Place, Sanford, Minnesota, 6819",
+      "isActive": false
+    }
+  ]
